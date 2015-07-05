@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Document xmlns="http://www.evolus.vn/Namespace/Pencil"><Properties/><Pages><Page><Properties><Property name="name">Untitled Page</Property><Property name="id">1436122713539_3922</Property><Property name="width">949</Property><Property name="height">884</Property><Property name="dimBackground"/><Property name="transparentBackground"/><Property name="backgroundColor">#ffffff</Property></Properties><Content><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RoundedRect" id="55698275b95a4be78662bbb6ef856587" transform="matrix(1,0,0,1,25,36)"><p:metadata><p:property name="box"><![CDATA[900,71]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,8.875]]></p:property><p:property name="fillColor"><![CDATA[#009900FF]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[2|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA["Liberation Sans",Arial,sans-serif|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <rect width="898" height="69" rx="0" ry="0" x="0" y="0" style="stroke-width: 2; fill: rgb(0, 153, 0); fill-opacity: 1; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="37c7fa4f7f264276b9168ac5576f0fd0" transform="translate(1,1)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="b356ddd8760f48e19e9d225467b9461c">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#37c7fa4f7f264276b9168ac5576f0fd0" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#b356ddd8760f48e19e9d225467b9461c)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="8e408cf054484e2da54a661c9950d58f"/>
+            <use xlink:href="#37c7fa4f7f264276b9168ac5576f0fd0" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="8.875" y="36" width="882.25" height="0" p:name="text" id="40a22de211b649a4bd70507237a0f1c2" style="font-family: &quot;Liberation Sans&quot;,Arial,sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g></Content></Page></Pages></Document>
